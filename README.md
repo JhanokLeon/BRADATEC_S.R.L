@@ -18,6 +18,19 @@ Se considero la estructura del frontend y backend en el mismo repositorio ya que
 - **Figma:** 
 - **Trello:** 
 
+📝 Hoja de Ruta (Roadmap)
+[x] Configuración de entorno y Repositorio.
+
+[ ] Modelado de Base de Datos (Relaciones y Diccionario).
+
+[ ] Módulo de Autenticación (Login Seguro).
+
+[ ] CRUD de Productos y Categorías.
+
+[ ] Sistema de Movimientos (Entradas/Salidas).
+
+[ ] Dashboard de Estadísticas.
+
 ## Equipo
 - **Scrum Master:** Jhanok Leon Rodriguez 👽
 - **Product Owner:** Jakon Rao
